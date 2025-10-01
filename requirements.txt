@@ -1,0 +1,6 @@
+opencv-python
+fer
+moviepy
+imageio
+imageio-ffmpeg
+tensorflow
